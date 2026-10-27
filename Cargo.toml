@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-meteora-dynamic-amm"]
+resolver = "2"
